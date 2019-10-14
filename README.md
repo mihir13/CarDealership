@@ -4,15 +4,15 @@ This is a car dealership project made for my university project as part of my co
 This project is about implementing OOP concepts into a Car Dealership where a
 
 
-<b> Functionality </b> 
+<h2> Functionality </h2> 
 
 Three types of roles need to be created: "Admin Role", "Staff Role" and "Customer
 Role". Once the users successfully log into the system, they should be able to access the below
 functionalities according their roles.
-• Admin Role
+Admin Role
 – Creates login credentials for staff and customers as below:
-<li> ∗ Creates username, password and sets their role. </li>
-<li> ∗ Passwords should not be stored as they are. Any algorithm for encoding is accepted,
+<li> Creates username, password and sets their role. </li>
+<li> Passwords should not be stored as they are. Any algorithm for encoding is accepted,
 and it does not matter how complex it is. </li>
 – Has all functionality that the staff role has.
 • Staff Role
