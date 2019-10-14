@@ -12,7 +12,7 @@ functionalities according their roles.
 
 <b> Admin Role </b>
 <ul>
-<li> Creates login credentials for staff and customers as below: <li>
+<li> Creates login credentials for staff and customers as below: </li>
   <ul>
     <li> Creates username, password and sets their role. </li>
     <li> Passwords should not be stored as they are. Any algorithm for encoding is accepted, and it does not matter how complex it is. </ul> </li>
@@ -42,7 +42,7 @@ the selling date and the latter by the day of their arrival. The format is the s
     <li> that have the given model and transmission type or have the given colour, </li>
     <li> whose number of seats is between a user-specified minimum and maximum, which are Vans with a user-specified size
   </ul> </li>
-<li> Calculate revenue ... calculates and outputs the revenue of the specified day or month, that
+<li> Calculate revenue: calculates and outputs the revenue of the specified day or month, that
   is the sum of the selling prices of the cars sold on that day or in that month. </li> </ul> </br> </br>
 
 <b> Customer Role </b>
@@ -51,7 +51,7 @@ the selling date and the latter by the day of their arrival. The format is the s
 </ul>
 
 <h2> Documentation and Submission </h2> 
-This project covers 
+This project covers </br> 
 <ul> 
 <li> a documentation, </li>
 <li> all source files (i.e. java files) as well as all other files needed to compile and run the program (e.g.
