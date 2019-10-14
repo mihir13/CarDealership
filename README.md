@@ -18,32 +18,34 @@ and it does not matter how complex it is. </li>
 – Has all functionality that the staff role has. </br> </br>
 
 <b> Staff Role </b>
-– Login: if the entered credential is correct, allows user to use the available functionality.
-– Add cars: allows to add a list of cars provided in a file; each line in the file describes one
+<ul>
+<li> Login: if the entered credential is correct, allows user to use the available functionality. <li>
+<li> Add cars: allows to add a list of cars provided in a file; each line in the file describes one
 car by the following attributes, separated by commas: number plate, model, car type, size
 (only available and applicable for vans), colour, mileage, accident history, transmission type,
 price, arrival date, selling date. The selling date is optional; if it is left out, then the car is not
 yet sold. If the arrival date is also left out, then the current date is used as the arrival date.
-(An example file is given in Appendix B.)
-– Add car: allows to add a single car with the parameters number plate, model, car type, size
+  (An example file is given in Appendix B.) </li>
+<li> Add car: allows to add a single car with the parameters number plate, model, car type, size
 (only available and applicable for vans), colour, mileage, accident history, transmission type,
 price, arrival date, selling date. Again if the selling date is left out, then the car is not yet sold.
 If the arrival date is also left out, then the current date is used as the arrival date.
-1
-– Sell car: changes the status of a car to sold by saving the date the car was sold.
-– Print cars: outputs a file of all cars grouped into sold and unsold and sorts the former by
+  </li>
+  <li> Sell car: changes the status of a car to sold by saving the date the car was sold. </li>
+<li> Print cars: outputs a file of all cars grouped into sold and unsold and sorts the former by
 the selling date and the latter by the day of their arrival. The format is the same as the input
-format with the exception that every car must have an arrival date.
-– Search: for each of the following options, outputs a list of all available cars (all car details
-must be included)
-<li> that have the given model and transmission type or have the given colour, </li>
-<li> whose number of seats is between a user-specified minimum and maximum, which are Vans with a user-specified size. </li>
-– Calculate revenue ... calculates and outputs the revenue of the specified day or month, that
-is the sum of the selling prices of the cars sold on that day or in that month. </br> </br>
+  format with the exception that every car must have an arrival date. </li>
+<li> Search: for each of the following options, outputs a list of all available cars (all car details
+  must be included) </li>
+<dd> that have the given model and transmission type or have the given colour, </dd>
+<dd> whose number of seats is between a user-specified minimum and maximum, which are Vans with a user-specified size. </dd>
+<li> Calculate revenue ... calculates and outputs the revenue of the specified day or month, that
+  is the sum of the selling prices of the cars sold on that day or in that month. </li> </ul> </br> </br>
 
 <b> Customer Role </b>
-– can do the same search as staff users, but not having access to accident history information.
-
+<ul>
+<li> can do the same search as staff users, but not having access to accident history information.
+</ul>
 
 <h2> Documentation and Submission </h2> 
 You are expected to submit
