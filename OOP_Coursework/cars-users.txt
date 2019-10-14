@@ -1,0 +1,6 @@
+staff1,orange,staff
+admin1,apple,admin
+customer1,banana,customer
+customer2,kiwi,customer
+staff2,pear,staff
+admin2,strawberry,admin
