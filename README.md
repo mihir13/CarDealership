@@ -1,7 +1,7 @@
 # CarDealership
 This is a car dealership project made for my university project as part of my course.
-
-This project is about implementing OOP concepts into a Car Dealership where a
+<p>
+This project is about implementing OOP concepts into a Car Dealership where either an admin/user/staff can access and use the following functions mentioned below to access various functionalities. To access the files, you will have to run 'cardealer.jar' file by simply clicking on it to run the GUI interface. After a login, you will be assigned to homepage and carry out various functions. </p> 
 
 
 <h2> Functionality </h2> 
