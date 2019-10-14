@@ -15,7 +15,7 @@ functionalities according their roles.
 <li> Creates username, password and sets their role. </li>
 <li> Passwords should not be stored as they are. Any algorithm for encoding is accepted,
 and it does not matter how complex it is. </li>
-– Has all functionality that the staff role has.
+– Has all functionality that the staff role has. </br> </br>
 
 <b> Staff Role </b>
 – Login: if the entered credential is correct, allows user to use the available functionality.
@@ -39,7 +39,7 @@ must be included)
 <li> that have the given model and transmission type or have the given colour, </li>
 <li> whose number of seats is between a user-specified minimum and maximum, which are Vans with a user-specified size. </li>
 – Calculate revenue ... calculates and outputs the revenue of the specified day or month, that
-is the sum of the selling prices of the cars sold on that day or in that month.
+is the sum of the selling prices of the cars sold on that day or in that month. </br> </br>
 
 <b> Customer Role </b>
 – can do the same search as staff users, but not having access to accident history information.
