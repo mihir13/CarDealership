@@ -50,7 +50,7 @@ the selling date and the latter by the day of their arrival. The format is the s
 <li> can do the same search as staff users, but not having access to accident history information.
 </ul>
 
-<h2> Documentation and Submission </h2> 
+<h2> Documentation </h2> 
 This project covers </br> 
 <ul> 
 <li> a documentation, </li>
