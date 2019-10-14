@@ -37,8 +37,9 @@ the selling date and the latter by the day of their arrival. The format is the s
   format with the exception that every car must have an arrival date. </li>
 <li> Search: for each of the following options, outputs a list of all available cars (all car details
   must be included) </li>
-<dd> that have the given model and transmission type or have the given colour, </dd>
-<dd> whose number of seats is between a user-specified minimum and maximum, which are Vans with a user-specified size. </dd>
+<ul>
+<li> that have the given model and transmission type or have the given colour, </li>
+<li> whose number of seats is between a user-specified minimum and maximum, which are Vans with a user-specified size. </ul> </li>
 <li> Calculate revenue ... calculates and outputs the revenue of the specified day or month, that
   is the sum of the selling prices of the cars sold on that day or in that month. </li> </ul> </br> </br>
 
